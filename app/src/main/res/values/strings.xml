@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BookList</string>
+    <string name="book_name">图书名称</string>
+    <string name="book_edit_name">此处输入图书名称</string>
+    <string name="button_ok">确定</string>
+    <string name="button_cancel">取消</string>
+</resources>
